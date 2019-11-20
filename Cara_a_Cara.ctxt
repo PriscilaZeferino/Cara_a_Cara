@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Cara_a_Cara
+comment0.text=\r\n\ Esta\ classe\ tem\ como\ objetivo\ treinar\ os\ ifs\ e\ elses\ atrav\u00E9s\ de\ um\ jogo\r\n\ simples\ o\ cara\ a\ cara,\ no\ qual,\ neste\ caso,\ o\ computador\ tentara\r\n\ adivinhar\ qual\ foi\ a\ pessoa\ que\ o\ usuario\ escolheu.\r\n\ \r\n\ A\ primeira\ versao\ desse\ jogo\ foi\ desenvolvida\ por\ Priscila\ Zeferino,\ como\r\n\ um\ dos\ trabalhos\ realizados\ na\ disciplina\ de\ Programa\u00E7\u00E3o\ I,\r\n\ da\ turma\ 101Info,\ no\ ano\ de\ 2016,\ utilizando\ como\ personagens\ os\ alunos.\r\n\ \r\n\ Essa\ segunda\ versao\ utiliza\ personagens\ da\ serie\ The\ big\ bang\ theory.\ E\ foi\ desenvolvido\ apenas\ como\ mecanismo\ de\ aprendizagem,\ \r\n\ em\ hipotese\ alguma,\ os\ personagens\ serao\ utilizados\ na\ aplicacao\ com\ intuito\ comercial.\ \r\n\ \r\n\ @author\ Priscila\ Zeferino\r\n\ @version\ 2.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
