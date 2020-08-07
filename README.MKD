@@ -1,12 +1,13 @@
-﻿----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
 Projeto criado no BlueJ
 ------------------------------------------------------------------------
 
-TITULO DO PROJETO: Cara a Cara
-OBJETIVO DO PROJETO: Treinar o if else em JAVA.
-VERSÃO ou DATA: 2.0
-COMO INICIAR O PROJETO: Executar método main void.
-AUTORES: Priscila Zeferino
+TITULO DO PROJETO: Cara a Cara <br>
+OBJETIVO DO PROJETO: Treinar o if else em JAVA. <br>
+VERSÃO ou DATA: 2.0 <br>
+COMO INICIAR O PROJETO: Executar método main void. <br>
+AUTORES: Priscila Zeferino <br>
 
 DESCRIÇÃO DO PROJETO:
 
