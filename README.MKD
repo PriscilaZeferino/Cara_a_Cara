@@ -1,19 +1,62 @@
+# 📚 CARA A CARA
 
-----------------------------------------------------------------------------
-Projeto criado no BlueJ
-------------------------------------------------------------------------
+### Esta projeto tem como objetivo treinar os ifs e elses através de um jogo simples o cara a cara, no qual, neste caso, o computador tentara adivinhar qual foi a pessoa que o usuario escolheu.
 
-TITULO DO PROJETO: Cara a Cara <br>
-OBJETIVO DO PROJETO: Treinar o if else em JAVA. <br>
-VERSÃO ou DATA: 2.0 <br>
-COMO INICIAR O PROJETO: Executar método main void. <br>
-AUTORES: Priscila Zeferino <br>
+Tabela de conteúdos
+=================
 
-DESCRIÇÃO DO PROJETO:
+<p align="center">
+ <a href="#-objetivo">Objetivo</a> •
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-como-usar">Como usar</a> • 
+ <a href="#-licença">Licença</a> • 
+ <a href="#-versões">Versões</a> • 
+ <a href="#-autora">Autora</a>
 
-Esta projeto tem como objetivo treinar os ifs e elses através de um jogo simples o cara a cara, no qual, neste caso, o computador tentara adivinhar qual foi a pessoa que o usuario escolheu.
+</p>
 
-A primeira versao desse jogo foi desenvolvida por Priscila Zeferino, como um dos trabalhos realizados na disciplina de Programação I, da turma 101Info, no ano de 2016, utilizando como personagens os alunos.
+## 🚀 OBJETIVO: 
  
-Essa segunda versao utiliza personagens da serie The big bang theory. E foi desenvolvido apenas como mecanismo de aprendizagem, em hipotese alguma, os personagens serao utilizados na aplicacao com intuito comercial. 
+ - Praticar o if else do JAVA apresentado na aula de Programação I em um jogo que em fazer uma série de perguntas e respostas com apenas duas opções: sim e não.
+   Com base nisso, o computador irá eliminando as opções e chegará na pessoa escolhida pelo usuário.
+ 
+
+## 💻 TECNOLOGIAS:
+ 
+ - JAVA
+
+## 📢 COMO USAR:
+
+#### PRÉ-REQUISITOS: 
+  
+  - Para executar os projetos disponibilizados aqui, você precisará do <a href="https://www.bluej.org/">BlueJ</a>
+
+#### COMO EXECUTAR
+  
+  - Abra  a pasta do projeto no blueJ
+  - Clique em compilar
+  - Clique com o botão direito sobre uma das classes
+  - Execute o método main void
+  
+
+## 📃 LICENÇA
+
+Este projeto está sob a licença <a href="https://github.com/PriscilaZeferino/Proffy/blob/master/LICENSE">MIT</a>
+
+## 📌 VERSÕES
+
+1.0 - A primeira versao desse jogo foi desenvolvida por Priscila Zeferino, como um dos trabalhos realizados na disciplina de Programação I, da turma 101Info, no ano de 2016, utilizando como personagens os alunos.
+
+2.0 - Essa segunda versao utiliza personagens da serie The big bang theory. E foi desenvolvido apenas como mecanismo de aprendizagem, em hipotese alguma, os personagens serao utilizados na aplicacao com intuito comercial. 
+
+## 👧🏻 AUTORA
+
+Feito com 🧡 por Priscila Zeferino.
+Como estudo da disciplina de Programação I. EMI - INFO / IFRS Osório 2016 
+
+##### ✉ Contato:
+
+##### Linkedin: <a href="https://www.linkedin.com/in/priscila-zeferino-594b5b175/"> Priscila Zeferino</a>
+##### E-mail: priscila.zeferino23@gmail.com
+
 
