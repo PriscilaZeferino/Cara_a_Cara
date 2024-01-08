@@ -50,7 +50,7 @@ Tabela de conteúdos
     ```java Cara_a_Cara.java```
 ## 📃 LICENÇA
 
-Este projeto está sob a licença <a href="https://github.com/PriscilaZeferino/Proffy/blob/master/LICENSE">MIT</a>
+Este projeto está sob a licença <a href="https://github.com/PriscilaZeferino/Cara_a_cara/blob/master/LICENSE">Unlicense</a>
 
 ## 📌 VERSÕES
 
