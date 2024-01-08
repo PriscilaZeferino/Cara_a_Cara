@@ -29,16 +29,25 @@ Tabela de conteúdos
 
 #### PRÉ-REQUISITOS: 
   
-  - Para executar os projetos disponibilizados aqui, você precisará do <a href="https://www.bluej.org/">BlueJ</a>
+  - Ter o Java e o JDK  instalado
+  - Você pode usar o bluej para executar o projeto, se quiser. Ou o terminal.
 
 #### COMO EXECUTAR
+  
+  Pelo bluej.
   
   - Abra  a pasta do projeto no blueJ
   - Clique em compilar
   - Clique com o botão direito sobre uma das classes
   - Execute o método main void
   
-
+  Pelo terminal:
+  
+  - Abra a pasta do projeto no terminal
+  - Utilize javac seguido do arquivo que deseja compilar. Neste caso, Cara_a_Cara.java
+    ```javac Cara_a_Cara.java```
+  - Agora para rodar o programa utilize java seguido do nome do arquivo.
+    ```java Cara_a_Cara.java```
 ## 📃 LICENÇA
 
 Este projeto está sob a licença <a href="https://github.com/PriscilaZeferino/Proffy/blob/master/LICENSE">MIT</a>
